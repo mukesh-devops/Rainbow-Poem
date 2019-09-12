@@ -9,6 +9,7 @@ indigo
 unicorn
 ponies
 yellow
+RainBow!!
 red
 These are the colors of the poem.
 And the unicorn.
